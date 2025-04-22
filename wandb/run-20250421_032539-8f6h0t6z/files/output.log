@@ -1,0 +1,4 @@
+Epoch 1/5 [Training]:   0%|          | 0/8000 [00:00<?, ?it/s]/var/folders/qr/rqfn293x3zzgp2bfm_29pzk00000gn/T/ipykernel_18782/3673837165.py:29: DeprecationWarning: __array__ implementation doesn't accept a copy keyword, so passing copy=False failed. __array__ must implement 'dtype' and 'copy' keyword arguments. To learn more, see the migration guide https://numpy.org/devdocs/numpy_2_0_migration_guide.html#adapting-to-changes-in-the-copy-keyword
+  np_img = np.array(grayscale)
+Epoch 1/5 [Training]:   0%|          | 0/8000 [00:00<?, ?it/s]
+[34m[1mwandb[0m: [32m[41mERROR[0m The nbformat package was not found. It is required to save notebook history.

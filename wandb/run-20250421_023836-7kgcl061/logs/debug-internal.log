@@ -1,0 +1,26 @@
+{"time":"2025-04-21T02:38:36.474823+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/Users/kovarthanan/Acedamic/City, University of London/INM705 - Image Analysis/AI-Generated-Image-Detector/wandb/run-20250421_023836-7kgcl061/logs/debug-core.log"}
+{"time":"2025-04-21T02:38:36.950489+01:00","level":"INFO","msg":"created new stream","id":"7kgcl061"}
+{"time":"2025-04-21T02:38:36.950535+01:00","level":"INFO","msg":"stream: started","id":"7kgcl061"}
+{"time":"2025-04-21T02:38:36.950553+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"7kgcl061"}
+{"time":"2025-04-21T02:38:36.950606+01:00","level":"INFO","msg":"handler: started","stream_id":"7kgcl061"}
+{"time":"2025-04-21T02:38:36.95088+01:00","level":"INFO","msg":"sender: started","stream_id":"7kgcl061"}
+{"time":"2025-04-21T02:38:37.266472+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-21T02:38:37.351382+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T02:38:37.356848+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T02:38:37.357916+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T02:38:37.364125+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T02:38:38.849279+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T02:38:38.858686+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T02:49:23.415766+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/avok/INM705-Image/7kgcl061/file_stream\": read tcp 192.168.1.2:50231->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-04-21T03:04:31.937791+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T03:04:31.972485+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T03:05:27.30874+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-21T03:05:27.309172+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-21T03:05:28.330441+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-7kgcl061-classification_reportofHybridClassifier","runtime_seconds":1.032239375},{"desc":"uploading media/table/classification_report of Hybrid Classifier_5_e76b220b829d2af61cb3.table.json","runtime_seconds":0.722267417,"progress":"242B/242B"},{"desc":"uploading output.log","runtime_seconds":0.404229,"progress":"3.1KB/3.1KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.404041875,"progress":"580.2KB/580.2KB"},{"desc":"uploading config.yaml","runtime_seconds":0.080687958,"progress":"817B/817B"}],"total_operations":5}}
+{"time":"2025-04-21T03:06:28.533999+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading Dataset/hybrid_epoch_4.pth","runtime_seconds":57.006961334,"progress":"96.3MB/106.0MB"},{"desc":"uploading Dataset/hybrid_epoch_5.pth","runtime_seconds":57.006938292,"progress":"96.4MB/106.0MB"},{"desc":"uploading Dataset/hybrid_epoch_1.pth","runtime_seconds":57.006933917,"progress":"95.5MB/106.0MB"},{"desc":"uploading Dataset/hybrid_epoch_2.pth","runtime_seconds":57.006934042,"progress":"100.0MB/106.0MB"},{"desc":"uploading Dataset/hybrid_epoch_3.pth","runtime_seconds":57.006939458,"progress":"102.4MB/106.0MB"}],"total_operations":5}}
+{"time":"2025-04-21T03:06:32.809649+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-21T03:06:33.251213+01:00","level":"INFO","msg":"stream: closing","id":"7kgcl061"}
+{"time":"2025-04-21T03:06:33.251283+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"7kgcl061"}
+{"time":"2025-04-21T03:06:33.251448+01:00","level":"INFO","msg":"handler: closed","stream_id":"7kgcl061"}
+{"time":"2025-04-21T03:06:33.251513+01:00","level":"INFO","msg":"sender: closed","stream_id":"7kgcl061"}
+{"time":"2025-04-21T03:06:33.251542+01:00","level":"INFO","msg":"stream: closed","id":"7kgcl061"}

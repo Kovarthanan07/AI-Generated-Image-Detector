@@ -1,0 +1,13 @@
+{"time":"2025-04-21T05:07:44.085943+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/Users/kovarthanan/Acedamic/City, University of London/INM705 - Image Analysis/AI-Generated-Image-Detector/wandb/run-20250421_050744-t55wn87c/logs/debug-core.log"}
+{"time":"2025-04-21T05:07:44.55919+01:00","level":"INFO","msg":"created new stream","id":"t55wn87c"}
+{"time":"2025-04-21T05:07:44.559243+01:00","level":"INFO","msg":"stream: started","id":"t55wn87c"}
+{"time":"2025-04-21T05:07:44.559254+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"t55wn87c"}
+{"time":"2025-04-21T05:07:44.559289+01:00","level":"INFO","msg":"handler: started","stream_id":"t55wn87c"}
+{"time":"2025-04-21T05:07:44.559795+01:00","level":"INFO","msg":"sender: started","stream_id":"t55wn87c"}
+{"time":"2025-04-21T05:07:44.881244+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-21T05:07:44.953652+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T05:07:44.958329+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T05:07:44.959828+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T05:07:44.964656+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T05:07:46.238314+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T05:07:46.365595+01:00","level":"INFO","msg":"Resuming system monitor"}

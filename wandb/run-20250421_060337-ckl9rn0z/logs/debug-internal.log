@@ -1,0 +1,28 @@
+{"time":"2025-04-21T06:03:37.355802+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/Users/kovarthanan/Acedamic/City, University of London/INM705 - Image Analysis/AI-Generated-Image-Detector/wandb/run-20250421_060337-ckl9rn0z/logs/debug-core.log"}
+{"time":"2025-04-21T06:03:38.003738+01:00","level":"INFO","msg":"created new stream","id":"ckl9rn0z"}
+{"time":"2025-04-21T06:03:38.003795+01:00","level":"INFO","msg":"stream: started","id":"ckl9rn0z"}
+{"time":"2025-04-21T06:03:38.003806+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"ckl9rn0z"}
+{"time":"2025-04-21T06:03:38.003838+01:00","level":"INFO","msg":"handler: started","stream_id":"ckl9rn0z"}
+{"time":"2025-04-21T06:03:38.004109+01:00","level":"INFO","msg":"sender: started","stream_id":"ckl9rn0z"}
+{"time":"2025-04-21T06:03:38.367005+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-21T06:03:38.446981+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T06:03:38.452563+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T06:03:38.453912+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T06:03:38.458537+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T06:03:39.814897+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T06:03:39.818956+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T06:03:39.81928+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T06:03:39.827668+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T06:27:47.126566+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T06:27:47.167519+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T06:28:16.193117+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-21T06:28:16.193402+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-21T06:28:17.208753+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading artifact run-ckl9rn0z-classification_reportofHybridClassifier","runtime_seconds":1.024991},{"desc":"uploading media/table/classification_report of Hybrid Classifier_5_8e18a6aa0f589d74dc3a.table.json","runtime_seconds":0.702729459,"progress":"242B/242B"},{"desc":"uploading output.log","runtime_seconds":0.349260917,"progress":"3.3KB/3.3KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.349247125,"progress":"573.5KB/573.5KB"}],"total_operations":4}}
+{"time":"2025-04-21T06:29:17.384137+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading Dataset/hybrid_epoch_5.pth","runtime_seconds":56.656161333,"progress":"47.0MB/106.8MB"},{"desc":"uploading Dataset/hybrid_epoch_1.pth","runtime_seconds":56.656141625,"progress":"48.1MB/106.8MB"},{"desc":"uploading Dataset/hybrid_epoch_2.pth","runtime_seconds":56.656135542,"progress":"47.0MB/106.8MB"},{"desc":"uploading Dataset/hybrid_epoch_3.pth","runtime_seconds":56.656125292,"progress":"46.7MB/106.8MB"},{"desc":"uploading Dataset/hybrid_epoch_4.pth","runtime_seconds":56.656119458,"progress":"47.4MB/106.8MB"}],"total_operations":5}}
+{"time":"2025-04-21T06:30:17.581992+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading Dataset/hybrid_epoch_5.pth","runtime_seconds":116.854608583,"progress":"103.8MB/106.8MB"},{"desc":"uploading Dataset/hybrid_epoch_1.pth","runtime_seconds":116.854589208,"progress":"103.5MB/106.8MB"},{"desc":"uploading Dataset/hybrid_epoch_2.pth","runtime_seconds":116.85458325,"progress":"103.2MB/106.8MB"},{"desc":"uploading Dataset/hybrid_epoch_3.pth","runtime_seconds":116.854573667,"progress":"102.3MB/106.8MB"},{"desc":"uploading Dataset/hybrid_epoch_4.pth","runtime_seconds":116.854567833,"progress":"101.6MB/106.8MB"}],"total_operations":5}}
+{"time":"2025-04-21T06:30:22.116198+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-21T06:30:22.558749+01:00","level":"INFO","msg":"stream: closing","id":"ckl9rn0z"}
+{"time":"2025-04-21T06:30:22.558875+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ckl9rn0z"}
+{"time":"2025-04-21T06:30:22.558999+01:00","level":"INFO","msg":"handler: closed","stream_id":"ckl9rn0z"}
+{"time":"2025-04-21T06:30:22.559011+01:00","level":"INFO","msg":"sender: closed","stream_id":"ckl9rn0z"}
+{"time":"2025-04-21T06:30:22.559024+01:00","level":"INFO","msg":"stream: closed","id":"ckl9rn0z"}

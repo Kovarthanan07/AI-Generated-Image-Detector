@@ -1,0 +1,54 @@
+Epoch 1/5 [Training]:   0%|          | 0/250 [00:00<?, ?it/s]/var/folders/qr/rqfn293x3zzgp2bfm_29pzk00000gn/T/ipykernel_28540/3673837165.py:29: DeprecationWarning: __array__ implementation doesn't accept a copy keyword, so passing copy=False failed. __array__ must implement 'dtype' and 'copy' keyword arguments. To learn more, see the migration guide https://numpy.org/devdocs/numpy_2_0_migration_guide.html#adapting-to-changes-in-the-copy-keyword
+  np_img = np.array(grayscale)
+Epoch 1/5 [Training]: 100%|██████████| 250/250 [04:27<00:00,  1.07s/it, acc=91.1, loss=0.128]  
+Epoch 1/5 [Validation]: 100%|██████████| 63/63 [00:29<00:00,  2.10it/s, acc=95.7, loss=0.104] 
+Epoch 1/5:
+Train Loss: 0.2121, Train Acc: 91.09% |
+Val Loss: 0.1145, Val Acc: 95.70%
+
+ Best model saved with val accuracy: 95.70%
+Epoch 2/5 [Training]: 100%|██████████| 250/250 [04:23<00:00,  1.05s/it, acc=95.8, loss=0.085]  
+Epoch 2/5 [Validation]: 100%|██████████| 63/63 [00:27<00:00,  2.28it/s, acc=96.8, loss=0.187]  
+Epoch 2/5:
+Train Loss: 0.1064, Train Acc: 95.78% |
+Val Loss: 0.0814, Val Acc: 96.85%
+
+ Best model saved with val accuracy: 96.85%
+Epoch 3/5 [Training]: 100%|██████████| 250/250 [04:20<00:00,  1.04s/it, acc=97.4, loss=0.0746] 
+Epoch 3/5 [Validation]: 100%|██████████| 63/63 [00:27<00:00,  2.27it/s, acc=96, loss=0.226]   
+Epoch 3/5:
+Train Loss: 0.0725, Train Acc: 97.42% |
+Val Loss: 0.1012, Val Acc: 96.05%
+
+ No improvement in val accuracy for 1 epoch(s)
+Epoch 4/5 [Training]: 100%|██████████| 250/250 [04:15<00:00,  1.02s/it, acc=97.8, loss=0.0146] 
+Epoch 4/5 [Validation]: 100%|██████████| 63/63 [00:27<00:00,  2.28it/s, acc=96.8, loss=0.138]   
+Epoch 4/5:
+Train Loss: 0.0636, Train Acc: 97.76% |
+Val Loss: 0.0777, Val Acc: 96.75%
+
+ No improvement in val accuracy for 2 epoch(s)
+Epoch 5/5 [Training]: 100%|██████████| 250/250 [04:16<00:00,  1.02s/it, acc=98.4, loss=0.0221]  
+Epoch 5/5 [Validation]: 100%|██████████| 63/63 [00:28<00:00,  2.20it/s, acc=97.2, loss=0.0638]  
+Epoch 5/5:
+Train Loss: 0.0448, Train Acc: 98.36% |
+Val Loss: 0.0959, Val Acc: 97.25%
+
+ Best model saved with val accuracy: 97.25%
+Final Evaluation:   0%|          | 0/63 [00:00<?, ?it/s]/var/folders/qr/rqfn293x3zzgp2bfm_29pzk00000gn/T/ipykernel_28540/3673837165.py:29: DeprecationWarning: __array__ implementation doesn't accept a copy keyword, so passing copy=False failed. __array__ must implement 'dtype' and 'copy' keyword arguments. To learn more, see the migration guide https://numpy.org/devdocs/numpy_2_0_migration_guide.html#adapting-to-changes-in-the-copy-keyword
+  np_img = np.array(grayscale)
+Final Evaluation: 100%|██████████| 63/63 [00:27<00:00,  2.29it/s]
+
+ Final Validation Accuracy of Hybrid Classifier : 96.90%
+
+ Classification Report of Hybrid Classifier:
+
+              precision    recall  f1-score   support
+
+       Human       0.98      0.96      0.97      1185
+AI-Generated       0.95      0.98      0.96       815
+
+    accuracy                           0.97      2000
+   macro avg       0.97      0.97      0.97      2000
+weighted avg       0.97      0.97      0.97      2000
+[34m[1mwandb[0m: [32m[41mERROR[0m The nbformat package was not found. It is required to save notebook history.

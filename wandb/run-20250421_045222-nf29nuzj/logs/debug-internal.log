@@ -1,0 +1,28 @@
+{"time":"2025-04-21T04:52:22.236171+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/Users/kovarthanan/Acedamic/City, University of London/INM705 - Image Analysis/AI-Generated-Image-Detector/wandb/run-20250421_045222-nf29nuzj/logs/debug-core.log"}
+{"time":"2025-04-21T04:52:22.728878+01:00","level":"INFO","msg":"created new stream","id":"nf29nuzj"}
+{"time":"2025-04-21T04:52:22.728924+01:00","level":"INFO","msg":"stream: started","id":"nf29nuzj"}
+{"time":"2025-04-21T04:52:22.72898+01:00","level":"INFO","msg":"sender: started","stream_id":"nf29nuzj"}
+{"time":"2025-04-21T04:52:22.728978+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"nf29nuzj"}
+{"time":"2025-04-21T04:52:22.728985+01:00","level":"INFO","msg":"handler: started","stream_id":"nf29nuzj"}
+{"time":"2025-04-21T04:52:23.083147+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-21T04:52:23.152009+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T04:52:23.156491+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T04:52:23.15757+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T04:52:23.162331+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T04:52:24.456032+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T04:52:24.463036+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T04:52:25.493993+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T04:52:50.807157+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T04:52:50.809074+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T04:52:52.252316+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T04:52:52.253234+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T04:52:52.600824+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T04:52:52.607444+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-21T04:52:52.607477+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-21T04:52:53.616886+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.669750042,"progress":"24B/24B"},{"desc":"uploading config.yaml","runtime_seconds":0.365206167,"progress":"797B/797B"}],"total_operations":2}}
+{"time":"2025-04-21T04:52:54.215764+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-21T04:52:54.846535+01:00","level":"INFO","msg":"stream: closing","id":"nf29nuzj"}
+{"time":"2025-04-21T04:52:54.846598+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"nf29nuzj"}
+{"time":"2025-04-21T04:52:54.846621+01:00","level":"INFO","msg":"sender: closed","stream_id":"nf29nuzj"}
+{"time":"2025-04-21T04:52:54.846806+01:00","level":"INFO","msg":"handler: closed","stream_id":"nf29nuzj"}
+{"time":"2025-04-21T04:52:54.846821+01:00","level":"INFO","msg":"stream: closed","id":"nf29nuzj"}

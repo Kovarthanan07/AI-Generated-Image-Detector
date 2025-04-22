@@ -1,0 +1,60 @@
+{"time":"2025-04-19T18:18:05.809604+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/Users/kovarthanan/Acedamic/City, University of London/INM705 - Image Analysis/AI-Generated-Image-Detector/wandb/run-20250419_181805-jpthmmth/logs/debug-core.log"}
+{"time":"2025-04-19T18:18:06.962734+01:00","level":"INFO","msg":"created new stream","id":"jpthmmth"}
+{"time":"2025-04-19T18:18:06.970546+01:00","level":"INFO","msg":"stream: started","id":"jpthmmth"}
+{"time":"2025-04-19T18:18:06.970634+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"jpthmmth"}
+{"time":"2025-04-19T18:18:06.970724+01:00","level":"INFO","msg":"handler: started","stream_id":"jpthmmth"}
+{"time":"2025-04-19T18:18:06.970689+01:00","level":"INFO","msg":"sender: started","stream_id":"jpthmmth"}
+{"time":"2025-04-19T18:18:07.300904+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-19T18:18:07.39156+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:08.056606+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:08.057847+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:08.062729+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:08.063674+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:08.068313+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:08.069984+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:08.075217+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:08.121763+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:08.148798+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:08.161527+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:08.165951+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:08.171125+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:08.176333+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:08.177237+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:08.18093+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:08.237754+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:08.24177+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:08.245805+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:08.249611+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:08.25087+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:08.254603+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:08.255953+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:08.259485+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:08.259916+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:08.266164+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:08.472034+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:08.477995+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:08.47932+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:08.485693+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:09.330678+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:09.337561+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:09.339023+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:09.344641+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:09.345761+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:09.349638+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:09.350351+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:09.353856+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:09.354853+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:09.358322+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:09.359571+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:09.364134+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:09.365485+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-19T18:20:09.369758+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-19T18:20:09.373868+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-19T18:20:09.3739+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-19T18:20:10.384383+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.337610625,"progress":"955B/955B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.337573125,"progress":"24B/24B"},{"desc":"uploading config.yaml","runtime_seconds":0.062847166,"progress":"832B/832B"}],"total_operations":3}}
+{"time":"2025-04-19T18:20:11.34498+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-19T18:20:11.845684+01:00","level":"INFO","msg":"stream: closing","id":"jpthmmth"}
+{"time":"2025-04-19T18:20:11.845763+01:00","level":"INFO","msg":"handler: closed","stream_id":"jpthmmth"}
+{"time":"2025-04-19T18:20:11.845766+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"jpthmmth"}
+{"time":"2025-04-19T18:20:11.845854+01:00","level":"INFO","msg":"sender: closed","stream_id":"jpthmmth"}
+{"time":"2025-04-19T18:20:11.846016+01:00","level":"INFO","msg":"stream: closed","id":"jpthmmth"}

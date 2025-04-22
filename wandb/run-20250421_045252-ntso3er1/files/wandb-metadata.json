@@ -1,0 +1,44 @@
+{
+  "os":  "macOS-15.4-arm64-arm-64bit",
+  "python":  "CPython 3.10.4",
+  "startedAt":  "2025-04-21T03:52:54.847401Z",
+  "program":  "/Users/kovarthanan/Acedamic/City, University of London/INM705 - Image Analysis/AI-Generated-Image-Detector/main.ipynb",
+  "codePath":  "main.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Kovarthanan07/AI-Generated-Image-Detector.git",
+    "commit":  "cab5d1fb6480720c4625b5bb6f5a0e50a9c4c59f"
+  },
+  "email":  "kovarthanan07@gmail.com",
+  "root":  "/Users/kovarthanan/Acedamic/City, University of London/INM705 - Image Analysis/AI-Generated-Image-Detector",
+  "host":  "Kovarthanans-MacBook-Pro.local",
+  "executable":  "/Users/kovarthanan/Acedamic/City, University of London/INM705 - Image Analysis/AI-Generated-Image-Detector/.venv/bin/python",
+  "codePathLocal":  "main.ipynb",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "464438775808"
+    },
+    "/System/Volumes/Data":  {
+      "total":  "494384795648",
+      "used":  "464438775808"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "cpu":  {
+    "count":  8,
+    "countLogical":  8
+  },
+  "apple":  {
+    "name":  "Apple M1 Pro",
+    "ecpuCores":  2,
+    "pcpuCores":  6,
+    "gpuCores":  14,
+    "memoryGb":  16,
+    "swapTotalBytes":  "8589934592",
+    "ramTotalBytes":  "17179869184"
+  }
+}

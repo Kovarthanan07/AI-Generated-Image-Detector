@@ -1,0 +1,7 @@
+{"time":"2025-04-20T21:20:19.729853+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/Users/kovarthanan/Acedamic/City, University of London/INM705 - Image Analysis/AI-Generated-Image-Detector/wandb/run-20250420_212017-u8a3jalo/logs/debug-core.log"}
+{"time":"2025-04-20T21:20:20.206836+01:00","level":"INFO","msg":"created new stream","id":"u8a3jalo"}
+{"time":"2025-04-20T21:20:20.20688+01:00","level":"INFO","msg":"stream: started","id":"u8a3jalo"}
+{"time":"2025-04-20T21:20:20.206896+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"u8a3jalo"}
+{"time":"2025-04-20T21:20:20.206898+01:00","level":"INFO","msg":"sender: started","stream_id":"u8a3jalo"}
+{"time":"2025-04-20T21:20:20.206914+01:00","level":"INFO","msg":"handler: started","stream_id":"u8a3jalo"}
+{"time":"2025-04-20T21:20:20.519352+01:00","level":"INFO","msg":"Starting system monitor"}

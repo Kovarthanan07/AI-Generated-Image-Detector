@@ -1,0 +1,9 @@
+Epoch 1/5 [Training]:   0%|          | 0/250 [00:00<?, ?it/s]/var/folders/qr/rqfn293x3zzgp2bfm_29pzk00000gn/T/ipykernel_23504/3673837165.py:29: DeprecationWarning: __array__ implementation doesn't accept a copy keyword, so passing copy=False failed. __array__ must implement 'dtype' and 'copy' keyword arguments. To learn more, see the migration guide https://numpy.org/devdocs/numpy_2_0_migration_guide.html#adapting-to-changes-in-the-copy-keyword
+  np_img = np.array(grayscale)
+Epoch 1/5 [Training]: 100%|██████████| 250/250 [04:00<00:00,  1.04it/s, acc=93.2, loss=0.0746] 
+Epoch 1/5 [Validation]: 100%|██████████| 63/63 [00:26<00:00,  2.34it/s, acc=98.6, loss=0.0322] 
+Epoch 1/5:
+Train Loss: 0.1786, Train Acc: 93.24% |
+Val Loss: 0.0436, Val Acc: 98.60%
+Epoch 2/5 [Training]: 100%|██████████| 250/250 [04:09<00:00,  1.00it/s, acc=99, loss=0.00679]  
+Epoch 2/5 [Validation]:  56%|█████▌    | 35/63 [00:15<00:12,  2.27it/s, acc=99.1, loss=0.0952]  

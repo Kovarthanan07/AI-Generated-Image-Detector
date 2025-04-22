@@ -1,0 +1,9 @@
+{"time":"2025-04-20T19:27:27.247316+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/Users/kovarthanan/Acedamic/City, University of London/INM705 - Image Analysis/AI-Generated-Image-Detector/wandb/run-20250420_192727-kmdv2lhb/logs/debug-core.log"}
+{"time":"2025-04-20T19:27:27.783739+01:00","level":"INFO","msg":"created new stream","id":"kmdv2lhb"}
+{"time":"2025-04-20T19:27:27.783801+01:00","level":"INFO","msg":"stream: started","id":"kmdv2lhb"}
+{"time":"2025-04-20T19:27:27.783824+01:00","level":"INFO","msg":"handler: started","stream_id":"kmdv2lhb"}
+{"time":"2025-04-20T19:27:27.78387+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"kmdv2lhb"}
+{"time":"2025-04-20T19:27:27.784039+01:00","level":"INFO","msg":"sender: started","stream_id":"kmdv2lhb"}
+{"time":"2025-04-20T19:27:28.174735+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-20T19:27:28.286396+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T19:27:28.295822+01:00","level":"INFO","msg":"Resuming system monitor"}

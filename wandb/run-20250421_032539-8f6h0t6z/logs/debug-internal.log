@@ -1,0 +1,30 @@
+{"time":"2025-04-21T03:25:40.011468+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/Users/kovarthanan/Acedamic/City, University of London/INM705 - Image Analysis/AI-Generated-Image-Detector/wandb/run-20250421_032539-8f6h0t6z/logs/debug-core.log"}
+{"time":"2025-04-21T03:25:40.50655+01:00","level":"INFO","msg":"created new stream","id":"8f6h0t6z"}
+{"time":"2025-04-21T03:25:40.50661+01:00","level":"INFO","msg":"stream: started","id":"8f6h0t6z"}
+{"time":"2025-04-21T03:25:40.506632+01:00","level":"INFO","msg":"sender: started","stream_id":"8f6h0t6z"}
+{"time":"2025-04-21T03:25:40.506611+01:00","level":"INFO","msg":"handler: started","stream_id":"8f6h0t6z"}
+{"time":"2025-04-21T03:25:40.506627+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"8f6h0t6z"}
+{"time":"2025-04-21T03:25:40.837027+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-21T03:25:40.904738+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T03:25:40.909178+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T03:25:40.910612+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T03:25:40.915+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T03:25:42.147619+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T03:25:42.154526+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T03:25:43.233003+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T03:29:21.918958+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T03:29:21.920736+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T03:29:21.929247+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T03:29:21.93081+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T03:29:21.936143+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T03:29:21.936666+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T03:29:21.942623+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T03:29:21.94781+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-21T03:29:21.947869+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-21T03:29:22.958464+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.421245834,"progress":"661B/661B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.421212583,"progress":"24B/24B"},{"desc":"uploading config.yaml","runtime_seconds":0.143876875,"progress":"797B/797B"}],"total_operations":3}}
+{"time":"2025-04-21T03:29:23.8699+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-21T03:29:24.538708+01:00","level":"INFO","msg":"stream: closing","id":"8f6h0t6z"}
+{"time":"2025-04-21T03:29:24.538768+01:00","level":"INFO","msg":"handler: closed","stream_id":"8f6h0t6z"}
+{"time":"2025-04-21T03:29:24.538783+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"8f6h0t6z"}
+{"time":"2025-04-21T03:29:24.538794+01:00","level":"INFO","msg":"sender: closed","stream_id":"8f6h0t6z"}
+{"time":"2025-04-21T03:29:24.539023+01:00","level":"INFO","msg":"stream: closed","id":"8f6h0t6z"}

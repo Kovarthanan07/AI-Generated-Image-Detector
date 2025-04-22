@@ -1,0 +1,24 @@
+{"time":"2025-04-20T21:16:10.948743+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/Users/kovarthanan/Acedamic/City, University of London/INM705 - Image Analysis/AI-Generated-Image-Detector/wandb/run-20250420_211610-pjrbl5uu/logs/debug-core.log"}
+{"time":"2025-04-20T21:16:11.508492+01:00","level":"INFO","msg":"created new stream","id":"pjrbl5uu"}
+{"time":"2025-04-20T21:16:11.508662+01:00","level":"INFO","msg":"stream: started","id":"pjrbl5uu"}
+{"time":"2025-04-20T21:16:11.508682+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"pjrbl5uu"}
+{"time":"2025-04-20T21:16:11.508815+01:00","level":"INFO","msg":"sender: started","stream_id":"pjrbl5uu"}
+{"time":"2025-04-20T21:16:11.508976+01:00","level":"INFO","msg":"handler: started","stream_id":"pjrbl5uu"}
+{"time":"2025-04-20T21:16:11.835718+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-20T21:16:11.936622+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T21:20:17.215425+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T21:20:17.219121+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T21:20:17.227669+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T21:20:17.230128+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T21:20:17.23494+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T21:20:17.240308+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-20T21:20:17.244843+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-20T21:20:17.254362+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-20T21:20:17.254397+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-20T21:20:18.268133+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.400570166,"progress":"117B/117B"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.400536458,"progress":"24B/24B"},{"desc":"uploading config.yaml","runtime_seconds":0.103585917,"progress":"777B/777B"}],"total_operations":3}}
+{"time":"2025-04-20T21:20:19.320322+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-20T21:20:19.728292+01:00","level":"INFO","msg":"stream: closing","id":"pjrbl5uu"}
+{"time":"2025-04-20T21:20:19.72839+01:00","level":"INFO","msg":"sender: closed","stream_id":"pjrbl5uu"}
+{"time":"2025-04-20T21:20:19.728401+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"pjrbl5uu"}
+{"time":"2025-04-20T21:20:19.728551+01:00","level":"INFO","msg":"handler: closed","stream_id":"pjrbl5uu"}
+{"time":"2025-04-20T21:20:19.728605+01:00","level":"INFO","msg":"stream: closed","id":"pjrbl5uu"}

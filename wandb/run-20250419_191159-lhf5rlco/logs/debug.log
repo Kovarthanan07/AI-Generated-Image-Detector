@@ -1,0 +1,7 @@
+2025-04-19 19:11:59,025 INFO    MainThread:2819 [wandb_init.py:setup_run_log_directory():662] Logging user logs to /Users/kovarthanan/Acedamic/City, University of London/INM705 - Image Analysis/AI-Generated-Image-Detector/wandb/run-20250419_191159-lhf5rlco/logs/debug.log
+2025-04-19 19:11:59,025 INFO    MainThread:2819 [wandb_init.py:setup_run_log_directory():663] Logging internal logs to /Users/kovarthanan/Acedamic/City, University of London/INM705 - Image Analysis/AI-Generated-Image-Detector/wandb/run-20250419_191159-lhf5rlco/logs/debug-internal.log
+2025-04-19 19:11:59,025 INFO    MainThread:2819 [wandb_init.py:monkeypatch_ipython():581] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x1681936d0>
+2025-04-19 19:11:59,025 INFO    MainThread:2819 [wandb_init.py:init():781] calling init triggers
+2025-04-19 19:11:59,025 INFO    MainThread:2819 [wandb_init.py:init():786] wandb.init called with sweep_config: {}
+config: {'model': 'CNN_FD_Classifier', 'input_size': (224, 224), 'batch_size': 16, 'epochs': 5, 'optimizer': 'Adam', 'learning_rate': 0.0001, 'loss': 'CrossEntropyLoss', '_wandb': {}}
+2025-04-19 19:11:59,025 INFO    MainThread:2819 [wandb_init.py:init():798] finishing previous run: 4gq1racb

@@ -1,0 +1,7 @@
+{"time":"2025-04-19T18:20:11.847316+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/Users/kovarthanan/Acedamic/City, University of London/INM705 - Image Analysis/AI-Generated-Image-Detector/wandb/run-20250419_182009-4gq1racb/logs/debug-core.log"}
+{"time":"2025-04-19T18:20:12.348036+01:00","level":"INFO","msg":"created new stream","id":"4gq1racb"}
+{"time":"2025-04-19T18:20:12.348076+01:00","level":"INFO","msg":"stream: started","id":"4gq1racb"}
+{"time":"2025-04-19T18:20:12.348084+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"4gq1racb"}
+{"time":"2025-04-19T18:20:12.348099+01:00","level":"INFO","msg":"sender: started","stream_id":"4gq1racb"}
+{"time":"2025-04-19T18:20:12.348127+01:00","level":"INFO","msg":"handler: started","stream_id":"4gq1racb"}
+{"time":"2025-04-19T18:20:12.691734+01:00","level":"INFO","msg":"Starting system monitor"}

@@ -2,7 +2,7 @@
 
 This repository contains the coursework for INM705: Deep Learning for Image Analysis as part of the MSc in Artificial Intelligence at City, University of London.
 
-## Project Overview
+## Overview
 
 This project explores different model architectures to address this issue:
 
